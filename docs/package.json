@@ -1,0 +1,19 @@
+{
+  "name": "acorn-globus-handbook",
+  "version": "0.0.1",
+  "description": "A guide to everything you need to perform your work at Acorn Globus",
+  "main": "index.js",
+  "authors": {
+    "name": "Ankit Singhaniya",
+    "email": "ankit@acornglobus.com"
+  },
+  "repository": "/acorn-globus-handbook",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
