@@ -48,6 +48,7 @@ module.exports = {
           title: 'Guide',
           collapsable: false,
           children: [
+            'how-to-communicate-effectively',
             'prepare-your-machine-for-work',
             'top-skills-to-learn-to-excel',
             'the-git-flow'
