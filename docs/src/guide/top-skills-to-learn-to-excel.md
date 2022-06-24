@@ -1,3 +1,8 @@
+---
+tags:
+    - tech
+---
+
 # Top skills to learn to excel
 
 We do not restrict ourself to any specific domain, framework or language but it's always faster to building things in the technologies we have a lot of experience with. These are the few technologies and some useful links which you can use to learn about differnet technologies.

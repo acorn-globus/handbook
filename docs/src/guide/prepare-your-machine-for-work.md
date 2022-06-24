@@ -1,3 +1,7 @@
+---
+tags:
+    - tech
+---
 # Prepare your machine for work
 
 As we work on more and more projects we understand our tooling better. This is a non-exhaustive but most commonly needed software installed on your machine.

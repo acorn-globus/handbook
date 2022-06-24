@@ -1,3 +1,8 @@
+---
+tags:
+    - tech
+---
+
 # The Git Flow
 
 When working on a project it's going to be version managed 100% of the times and the version control that we use is Git mostly. The Git respository could be hosted anywhere including Github, Gitlab or Bitbucket.
