@@ -49,7 +49,8 @@ module.exports = {
           collapsable: false,
           children: [
             'prepare-your-machine-for-work',
-            'top-skills-to-learn-to-excel'
+            'top-skills-to-learn-to-excel',
+            'the-git-flow'
           ]
         }
       ],
