@@ -48,8 +48,8 @@ module.exports = {
           title: 'Guide',
           collapsable: false,
           children: [
-            '',
-            'using-vue',
+            'prepare-your-machine-for-work',
+            'top-skills-to-learn-to-excel'
           ]
         }
       ],
