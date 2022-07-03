@@ -149,18 +149,24 @@ module.exports = {
         content: 'summary_large_image',
       },
     ],
-    {
-      hid: 'apple-mobile-web-app-title',
-      name: 'apple-mobile-web-app-title',
-      content: title,
-    },
+    [
+      'meta',
+      {
+        hid: 'apple-mobile-web-app-title',
+        name: 'apple-mobile-web-app-title',
+        content: title,
+      },
+    ],
     // Linkedin
-    {
-      hid: 'image',
-      name: 'image',
-      property: 'og:image',
-      content: mainImage,
-    },
+    [
+      'meta',
+      {
+        hid: 'image',
+        name: 'image',
+        property: 'og:image',
+        content: mainImage,
+      },
+    ],
     // favicons
     [
       'link',
