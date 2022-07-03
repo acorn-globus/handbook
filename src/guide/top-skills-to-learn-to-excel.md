@@ -1,33 +1,46 @@
 ---
 tags:
-    - tech
+  - tech
 ---
 
 # Top skills to learn to excel
 
-We do not restrict ourself to any specific domain, framework or language but it's always faster to building things in the technologies we have a lot of experience with. These are the few technologies and some useful links which you can use to learn about differnet technologies.
+We do not restrict ourself to any specific domain, framework or language but it's always faster to building things in the technologies we have a lot of experience with. There are a few technologies and some useful links you can check out to learn more.s
 
 ## Ruby
-- [https://www.ruby-lang.org/en/documentation/](https://www.ruby-lang.org/en/documentation/)
-- [http://rubykoans.com/](http://rubykoans.com/)
-- [https://www.codecademy.com/learn/learn-ruby](https://www.codecademy.com/learn/learn-ruby)
-- [https://www.youtube.com/watch?v=Dji9ALCgfpM](https://www.youtube.com/watch?v=Dji9ALCgfpM)
+
+- [Ruby Documentation](https://www.ruby-lang.org/en/documentation/)
+- [Learn Ruby With The Edgecase](http://rubykoans.com/)
+- [Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
+- [Ruby Programming](https://www.youtube.com/watch?v=Dji9ALCgfpM)
 
 ## Ruby on Rails
-- [https://guides.rubyonrails.org/getting_started.html](https://guides.rubyonrails.org/getting_started.html)
-- [https://www.udemy.com/course/pro-rubyonrails-starter/](https://www.udemy.com/course/pro-rubyonrails-starter/)
-- [https://www.youtube.com/watch?v=GY7Ps8fqGdc&t=1s](https://www.youtube.com/watch?v=GY7Ps8fqGdc&t=1s)
+
+- [Rubo on Rails Guide](https://guides.rubyonrails.org/getting_started.html)
+- [Ruby on Rails Tutorial](https://www.youtube.com/watch?v=GY7Ps8fqGdc&t=1s)
+- [Complete Ruby on Rails Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
 
 ## JavaScript
-- [https://www.youtube.com/watch?v=yDKiJFsP2PA](https://www.youtube.com/watch?v=yDKiJFsP2PA)
-- [https://www.codecademy.com/learn/introduction-to-javascript](https://www.codecademy.com/learn/introduction-to-javascript)
-- [https://www.youtube.com/watch?v=fju9ii8YsGs](https://www.youtube.com/watch?v=fju9ii8YsGs)
+
+- [Introduction to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Getting Started With Javascript](https://youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
+- [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript)
+- [Complete Javascript Course](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/)
 
 ## Vue.js
-- [https://vuejs.org/](https://vuejs.org/)
-- [https://egghead.io/courses/the-beginner-s-guide-to-vue-3-1c46da8b](https://egghead.io/courses/the-beginner-s-guide-to-vue-3-1c46da8b)
-- [https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa (vue 2)](https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa (vue 2))
+
+- [Vue Documentation](https://vuejs.org/)
+- [Vue JS 2](https://youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+- [Beginner's guide to Vue 3](https://egghead.io/courses/the-beginner-s-guide-to-vue-3-1c46da8b)
+- [Complete Vue Course](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
 
 ## React.js
-- [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html)
-- [https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [Modern React Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+- [Complete React Course](https://www.udemy.com/course/build-web-apps-with-react-firebase/)
+
+## Git and GitHub
+
+- [GitHub for Noobs](https://youtube.com/playlist?list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw)
+- [Git Complete](https://www.udemy.com/course/git-complete/)
