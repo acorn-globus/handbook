@@ -3,7 +3,7 @@ const url = 'https://handbook.acornglobus.com/';
 const title = 'Acorn Globus Handbook';
 const description =
   'A guide to everything you need to perform your work at Acorn Globus';
-const mainImage = '/images/ag-logo.png';
+const mainImage = 'https://handbook.acornglobus.com/images/ag-logo.png';
 const mainImageAlt = 'Acorn Globus Logo';
 
 module.exports = {
