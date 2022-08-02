@@ -33,4 +33,41 @@ When you feel you are ready to write, just follow the below steps:
 
 Posting blogs in the platform is as easy as reading this blog. Aside from posting your own blogs, you may occasionally help other content writers by posting theirs.
 
-Steps for posting blog
+Have everything like the content (word document) and the blog images at place and then follow the simple steps involved for posting:
+
+1. Navigate to the `content/blog` folder at the root of the project
+2. Create a new markdown file with the blog name, for example `building-your-first-form-with-formester.md`
+3. At the top of the file, Add meta data for the blog as per the format:
+
+```
+---
+title: Building your first form with formester
+description: Different approaches to building web forms with formester
+author: Piyush Singhania
+coverImg: formester-form-builder-background.png
+coverImgAlt: Cover image for the blog, "Building your first form with formester"
+featured: false
+published: true
+createdAt: '2022-05-10'
+---
+```
+
+4. Navigate to the `static/blog` folder at the root of the project
+5. Create a new folder with the blog name, for example `building-your-first-form-with-formester`
+6. Add all the blog images there
+7. Follow [markdown syntax](https://www.markdownguide.org/basic-syntax/ "Basic Markdown Syntax") to add your content and images.
+8. Make sure you add proper title and alt texts for the images and links
+9. By default the page contains a Call To Acton Seciton, however `optionally` you can update the title and button text just by adding some more meta data:
+
+```
+cta:
+  hidden: true
+  heading: Ready to dive in?
+  subheading: Register with us Now.
+  btnPrimary: Sign Up
+  btnSecondary: Contact Us
+  btnPrimaryLink: https://app.formester.com/users/sign_up
+  btnSecondaryLink: /contact
+```
+
+10. Commit and push the changes as per the [git conventions](./the-git-flow.md)
