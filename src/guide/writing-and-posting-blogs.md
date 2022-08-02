@@ -57,7 +57,7 @@ createdAt: '2022-05-10'
 6. Add all the blog images there
 7. Follow [markdown syntax](https://www.markdownguide.org/basic-syntax/ "Basic Markdown Syntax") to add your content and images to the file.
 8. Make sure you add proper title and alt texts for the images and links
-9. By default the page contains a Call To Acton Seciton, however `optionally` you can update the title and button text just by adding some more meta data:
+9. By default the page contains a Call To Action Section, however `optionally` you can update the title and button text just by adding some more meta data:
 
 ```
 cta:
