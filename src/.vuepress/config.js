@@ -231,6 +231,7 @@ module.exports = {
             'prepare-your-machine-for-work',
             'top-skills-to-learn-to-excel',
             'the-git-flow',
+            'writing-and-posting-blogs',
           ],
         },
       ],
