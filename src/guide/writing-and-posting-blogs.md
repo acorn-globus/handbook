@@ -54,10 +54,11 @@ createdAt: '2022-05-10'
 
 4. Also, Navigate to the `static/blog` folder at the root of the project
 5. Create a new folder with the blog name, for example `building-your-first-form-with-formester`
-6. Add all the blog images there
-7. Follow [markdown syntax](https://www.markdownguide.org/basic-syntax/ "Basic Markdown Syntax") to add your content and images to the file.
-8. Make sure you add proper title and alt texts for the images and links
-9. By default the page contains a [Call To Action Section](https://formester.com/blog/best-online-form-builders#:~:text=online%20form%20builders.-,Ready%20to%20dive%20in%3F,-Register%20with%20us), `optionally` you can update the title and button text just by adding some more meta data:
+6. All blog images (except the cover image) should be added here
+7. Place the blog cover image in the `static/blog/cover-images` folder
+8. Follow [markdown syntax](https://www.markdownguide.org/basic-syntax/ "Basic Markdown Syntax") to add your content and images to the file
+9. Make sure you add proper title and alt texts for the images and links
+10. By default the page contains a [Call To Action Section](https://formester.com/blog/best-online-form-builders#:~:text=online%20form%20builders.-,Ready%20to%20dive%20in%3F,-Register%20with%20us), `optionally` you can update the title and button text just by adding some more meta data:
 
 ```
 cta:
@@ -70,6 +71,6 @@ cta:
   btnSecondaryLink: /contact
 ```
 
-10. Commit and push the changes as per the [git conventions](./the-git-flow.md)
+11. Commit and push the changes as per the [git conventions](./the-git-flow.md)
 
 > TIP: checkout the previous blog files to understand the pattern
