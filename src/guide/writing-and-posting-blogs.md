@@ -56,9 +56,13 @@ createdAt: '2022-05-10'
 5. Create a new folder with the blog name, for example `building-your-first-form-with-formester`
 6. All blog images (except the cover image) should be added here
 7. Place the blog cover image in the `static/blog/cover-images` folder
-8. Follow [markdown syntax](https://www.markdownguide.org/basic-syntax/ "Basic Markdown Syntax") to add your content and images to the file
-9. Make sure you add proper title and alt texts for the images and links
-10. By default the page contains a [Call To Action Section](https://formester.com/blog/best-online-form-builders#:~:text=online%20form%20builders.-,Ready%20to%20dive%20in%3F,-Register%20with%20us), `optionally` you can update the title and button text just by adding some more meta data:
+8. The cover image `should not be svg` and `should not exceed 300 kb` in size. <br>
+As a result, image previews will appear on all platforms when sharing the blog link
+> - SVG image previews are not supported by most platforms ([source](https://stackoverflow.com/questions/21636503/use-svg-as-ogimage))
+> - Images larger than 300 kb are ignored by WhatsApp ([source](https://help.branch.io/faq/docs/why-are-some-quick-link-thumbnails-not-shown-in-whatsapp))
+9. Follow [markdown syntax](https://www.markdownguide.org/basic-syntax/ "Basic Markdown Syntax") to add your content and images to the file
+10. Make sure you add proper title and alt texts for the images and links
+11. By default the page contains a [Call To Action Section](https://formester.com/blog/best-online-form-builders#:~:text=online%20form%20builders.-,Ready%20to%20dive%20in%3F,-Register%20with%20us), `optionally` you can update the title and button text just by adding some more meta data:
 
 ```
 cta:
@@ -71,6 +75,6 @@ cta:
   btnSecondaryLink: /contact
 ```
 
-11. Commit and push the changes as per the [git conventions](./the-git-flow.md)
+12. Commit and push the changes as per the [git conventions](./the-git-flow.md)
 
 > TIP: checkout the previous blog files to understand the pattern
