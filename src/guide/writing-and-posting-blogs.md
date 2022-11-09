@@ -35,7 +35,9 @@ Posting blogs in the platform is as easy as reading this blog. Aside from postin
 
 Have everything like the content (word document) and the blog images at place and then follow the simple steps involved for posting:
 
-1. Navigate to the `content/blog` folder at the root of the project
+### The code-based method of posting
+
+1. Navigate to the `content/blog` folder at the root of the project.
 2. Create a new markdown file with the blog name, for example `building-your-first-form-with-formester.md`
 3. At the top of the file, Add meta data for the blog as per the format:
 
@@ -44,7 +46,7 @@ Have everything like the content (word document) and the blog images at place an
 title: Building your first form with formester
 description: Different approaches to building web forms with formester
 author: Piyush Singhania
-coverImg: formester-form-builder-background.png
+coverImg: /img/formester-form-builder-background.png
 coverImgAlt: Cover image for the blog, "Building your first form with formester"
 featured: false
 published: true
@@ -52,18 +54,18 @@ createdAt: '2022-05-10'
 ---
 ```
 
-4. Also, Navigate to the `static/blog` folder at the root of the project
-5. Create a new folder with the blog name, for example `building-your-first-form-with-formester`
-6. All blog images (except the cover image) should be added here
-7. Place the blog cover image in the `static/blog/cover-images` folder
-8. The cover image `should not be svg` and `should not exceed 300 kb` in size. <br>
-As a result, image previews will appear on all platforms when sharing the blog link
-> - SVG image previews are not supported by most platforms ([source](https://stackoverflow.com/questions/21636503/use-svg-as-ogimage))
-> - Images larger than 300 kb are ignored by WhatsApp ([source](https://help.branch.io/faq/docs/why-are-some-quick-link-thumbnails-not-shown-in-whatsapp))
-9. Also, the cover image needs to be placed in the `assets/images/blog` folder
-10. Follow [markdown syntax](https://www.markdownguide.org/basic-syntax/ "Basic Markdown Syntax") to add your content and images to the file
-11. Make sure you add proper title and alt texts for the images and links
-12. By default the page contains a [Call To Action Section](https://formester.com/blog/best-online-form-builders#:~:text=online%20form%20builders.-,Ready%20to%20dive%20in%3F,-Register%20with%20us), `optionally` you can update the title and button text just by adding some more meta data:
+4. Also, Navigate to the `static/img` folder at the root of the project.
+5. Make sure all blog images are added here.
+   > - When using screenshots, use [Pika.style](https://pika.style/) to make them look good
+   > - Please use the format `blog-name__image-name` for image names, such as `building-your-first-form-with-formester__formester-form-builder-background-cover`
+6. The cover image `should not be svg` and `should not exceed 300 kb` in size. <br>
+   As a result, image previews will appear on all platforms when sharing the blog link.
+   > - SVG image previews are not supported by most platforms ([source](https://stackoverflow.com/questions/21636503/use-svg-as-ogimage))
+   > - Images larger than 300 kb are ignored by WhatsApp ([source](https://help.branch.io/faq/docs/why-are-some-quick-link-thumbnails-not-shown-in-whatsapp))
+7. Follow [markdown syntax](https://www.markdownguide.org/basic-syntax/ 'Basic Markdown Syntax') to add your content and images to the file.
+8. Make sure you add proper title and alt texts for the images and links.
+   > - Find out how to write good alt texts [here](https://www.semrush.com/blog/alt-text/)
+9. By default the page contains a [Call To Action Section](https://formester.com/blog/best-online-form-builders#:~:text=online%20form%20builders.-,Ready%20to%20dive%20in%3F,-Register%20with%20us), `optionally` you can update the title and button text just by adding some more meta data:
 
 ```
 cta:
@@ -76,6 +78,29 @@ cta:
   btnSecondaryLink: /contact
 ```
 
-13. Commit and push the changes as per the [git conventions](./the-git-flow.md)
+10. Commit and push the changes as per the [git conventions](./the-git-flow.md).
+
+> TIP: checkout the previous blog files to understand the pattern
+
+### The UI-based method of posting
+
+UI-based approaches are a good choice for content writers and marketing team members.
+
+1. Navigate to `https://formester.com/admin` and login with your credentials.
+2. Click on the `New Blog` button to post a blog.
+3. Add a title, description, and other required fields for the blog.
+   > - Fill out the description box with the opening paragraph
+4. The cover image `should not be svg` and `should not exceed 300 kb` in size. <br>
+   As a result, image previews will appear on all platforms when sharing the blog link.
+   > - SVG image previews are not supported by most platforms ([source](https://stackoverflow.com/questions/21636503/use-svg-as-ogimage))
+   > - Images larger than 300 kb are ignored by WhatsApp ([source](https://help.branch.io/faq/docs/why-are-some-quick-link-thumbnails-not-shown-in-whatsapp))
+5. Use the text editor and tools to add the blog's content in the body section.
+6. If you are adding images to your blog, be sure to follow these instructions.
+   > - When using screenshots, use [Pika.style](https://pika.style/) to make them look good
+   > - Please use the format `blog-name__image-name` for image names, such as `building-your-first-form-with-formester__formester-form-builder-background-cover`
+7. Make sure you add proper title and alt texts for the images and links.
+   > - Find out how to write good alt texts [here](https://www.semrush.com/blog/alt-text/)
+8. As soon as you have finished editing and are satisfied with the content, click on Publish and choose your desired option to publish your blog.
+9. Additionally, you can mark blogs as drafts by disabling the `PUBLISHED` button.
 
 > TIP: checkout the previous blog files to understand the pattern
