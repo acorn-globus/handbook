@@ -230,6 +230,7 @@ module.exports = {
             'how-to-communicate-effectively',
             'prepare-your-machine-for-work',
             'top-skills-to-learn-to-excel',
+            'talking-to-clients-and-customers',
             'the-git-flow',
             'writing-and-posting-blogs',
             'adding-schema-to-blogs',
