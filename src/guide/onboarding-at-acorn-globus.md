@@ -4,13 +4,13 @@ Onboarding is one of the place where you get to see how a company function and h
 
 We at AG strive to make this process as simple as possible. Here's how the brief process looks like.
 
-- [ ] Sign the Offer letter
-- [ ] Sign the NDA
-- [ ] Get invited to Slack
-- [ ] Added to the #onboarding channel on Slack
-- [ ] Join the Trello board
-- [ ] Company email created 
-- [ ] Company email aliases created (if required)
-- [ ] Add yourself to the company website
-- [ ] Access to code and tools
-- [ ] Access to recorded walkthroughs
+1. Sign the Offer letter
+1. Sign the NDA
+1. Get invited to Slack
+1. Added to the #onboarding channel on Slack
+1. Join the Trello board
+1. Company email created 
+1. Company email aliases created (if required)
+1. Add yourself to the company website
+1. Access to code and tools
+1. Access to recorded walkthroughs
