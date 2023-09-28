@@ -227,6 +227,7 @@ module.exports = {
           title: 'Guide',
           collapsable: false,
           children: [
+            'onboarding-at-acorn-globus',
             'how-to-communicate-effectively',
             'prepare-your-machine-for-work',
             'top-skills-to-learn-to-excel',
