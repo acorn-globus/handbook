@@ -57,6 +57,7 @@ createdAt: '2022-05-10'
 4. Also, Navigate to the `static/img` folder at the root of the project.
 5. Make sure all blog images are added here.
    > - When using screenshots, use [Pika.style](https://pika.style/) to make them look good
+   > - Utilize the [Image Compressor](https://imagecompressr.com/) tool to efficiently compress a large number of images without any loss in quality.
    > - Please use the format `blog-name__image-name` for image names, such as `building-your-first-form-with-formester__formester-form-builder-background-cover`
 6. The cover image `should not be svg` and `should not exceed 300 kb` in size. <br>
    As a result, image previews will appear on all platforms when sharing the blog link.
@@ -97,6 +98,7 @@ UI-based approaches are a good choice for content writers and marketing team mem
 5. Use the text editor and tools to add the blog's content in the body section.
 6. If you are adding images to your blog, be sure to follow these instructions.
    > - When using screenshots, use [Pika.style](https://pika.style/) to make them look good
+   > - Utilize the [Image Compressor](https://imagecompressr.com/) tool to efficiently compress a large number of images without any loss in quality.
    > - Please use the format `blog-name__image-name` for image names, such as `building-your-first-form-with-formester__formester-form-builder-background-cover`
 7. Make sure you add proper title and alt texts for the images and links.
    > - Find out how to write good alt texts [here](https://www.semrush.com/blog/alt-text/)
