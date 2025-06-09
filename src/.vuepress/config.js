@@ -232,6 +232,7 @@ module.exports = {
             'prepare-your-machine-for-work',
             'top-skills-to-learn-to-excel',
             'talking-to-clients-and-customers',
+            'on-call-roles-and-responsibilities',
             'the-git-flow',
             'writing-and-posting-blogs',
             'adding-schema-to-blogs',
